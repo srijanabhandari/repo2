@@ -1,0 +1,16 @@
+package objectAssigment;
+
+public class Bank {
+
+	
+	 int type;
+	 int employee;
+	 String name;
+     
+	 
+	 Bank(int a, int b, String c){
+		 type = a;
+	 }
+	
+
+}

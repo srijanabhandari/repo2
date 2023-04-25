@@ -1,0 +1,17 @@
+package objectAssigment;
+
+public class Customer {
+
+	
+		String name = "siru";
+		int age = 55;
+		long number = 123456789l;
+		
+		Customer(String a, int b, long c){
+			name = a;
+			age = b;
+			number = c;
+		}
+	
+
+}

@@ -1,0 +1,20 @@
+package MultilevelInteriance;
+
+class Telephone {
+
+	void ring() {
+		System.out.println("Phone is ringing")
+	}
+}
+
+class Nokia extends Telephone {
+
+	public static void main(String[] args) {
+
+	}
+
+}
+
+class Android extends Nokia {
+
+}

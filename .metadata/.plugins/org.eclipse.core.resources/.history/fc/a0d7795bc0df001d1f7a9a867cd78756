@@ -1,0 +1,10 @@
+package herarchicalInheritance;
+
+public class Student extends School {
+ 
+	Student(String location, int price) {
+		super(location, price);
+		
+	}
+
+}

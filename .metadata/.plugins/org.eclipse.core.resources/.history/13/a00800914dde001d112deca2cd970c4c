@@ -1,0 +1,11 @@
+package Inheritance;
+
+public class MainAccount {
+
+	public static void main(String[] args) {
+		DematAccont dm = new DematAccont();
+		
+		System.out.println(dm.balance);
+		
+	}
+}

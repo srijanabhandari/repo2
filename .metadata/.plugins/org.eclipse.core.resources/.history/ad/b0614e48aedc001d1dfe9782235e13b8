@@ -1,0 +1,12 @@
+package objectAssigment;
+
+public class MainBank_Account {
+
+	public static void main(String[] args) {
+		
+		Bank_Account b = new Bank_Account("Saving", 2000 , "male" ,2345678l);
+ b.create();
+ System.out.println(b.accnumber);
+	}
+
+}

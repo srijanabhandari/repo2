@@ -1,0 +1,16 @@
+package keyword;
+
+public class ExampleThis {
+	int x = 50;
+	
+	void m1() {
+		int x = 500;
+		System.out.println(x);
+		System.out.println(this.x);
+	}
+public static void main(String[] args) {
+	
+	ExampleThis obj = new ExampleThis();
+	obj.m1();
+}
+}

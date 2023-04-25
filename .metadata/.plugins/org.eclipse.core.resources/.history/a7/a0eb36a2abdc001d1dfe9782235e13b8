@@ -1,0 +1,9 @@
+package objectAssigment;
+
+public class Bank_Account {
+ String acctype;
+ int minideposit;
+ String gender;
+ long accnumber;
+	
+}

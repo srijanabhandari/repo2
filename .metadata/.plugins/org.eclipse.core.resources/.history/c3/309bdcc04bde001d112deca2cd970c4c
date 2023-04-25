@@ -1,0 +1,13 @@
+package Inheritance;
+
+public class BankAccount {
+
+	int balance;
+	int acc_num;
+	int owner_name;
+	int owner_phone_num;
+	void transfer(int acc_num) {
+		System.out.println("transfarred");
+	}
+
+}

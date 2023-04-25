@@ -1,0 +1,6 @@
+package MultilevelInteriance;
+
+// derived class with inherited the base class and also that derived class become base class for other class.
+public class Telephone {
+
+}

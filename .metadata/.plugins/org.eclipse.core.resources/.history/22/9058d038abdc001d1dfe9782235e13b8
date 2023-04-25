@@ -1,0 +1,10 @@
+package objectAssigment;
+
+public class Bank_Account {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

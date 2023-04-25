@@ -1,0 +1,12 @@
+package herarchicalInheritance;
+
+ class School {
+void learn() {
+	
+}
+ }
+ 
+class Teacher extends School() {
+	
+}
+

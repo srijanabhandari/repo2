@@ -1,0 +1,9 @@
+package Inheritance;
+
+public class MainGames {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,14 @@
+package MultilevelInteriance;
+
+public class MainNokia {
+
+	public static void main(String[] args) {
+		Android a = new Android(2333 , "Blue", "XYZ");
+		System.out.println(a.color);
+		System.out.println(a.model) ;
+		System.out.println(a.price);
+		a.ring();
+		
+	}
+
+}

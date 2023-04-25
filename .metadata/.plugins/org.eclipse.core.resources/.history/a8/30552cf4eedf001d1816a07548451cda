@@ -1,0 +1,18 @@
+package assigment_this_and_super;
+
+public class Area extends City {
+	int height;
+	int breath;
+	int weidth;
+
+	Area(int zipcode, String state, int height, int breath, int weidth) {
+		super(zipcode, state);
+		this.height = height;
+		this.breath = breath;
+		this.weidth = weidth;
+
+	}
+ public void m1() {
+	 System.out.println(super.state);
+ }
+}

@@ -1,0 +1,11 @@
+package Inheritance;
+
+public class DematAccont extends BankAccount {
+	String exchangeName;
+	
+	void comission() {
+		
+	}
+	
+
+}

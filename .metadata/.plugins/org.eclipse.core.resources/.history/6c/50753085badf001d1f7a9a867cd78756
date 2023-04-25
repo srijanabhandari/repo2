@@ -1,0 +1,38 @@
+package MultilevelInteriance;
+
+class Telephone {
+
+	void ring() {
+		System.out.println("Phone is ringing");
+	}
+}
+
+class Nokia extends Telephone {
+    int price;
+    String color;
+    
+    Nokia(int price, String color){
+    	this.price = price;
+    	this.color = color;
+    	
+    }
+	void game() {
+		System.out.println("playing snake game");
+	}
+	
+
+}
+
+class Android extends Nokia {
+
+	Android(int price, String color) {
+		super(price, color);
+		// TODO Auto-generated constructor stub
+	}
+
+
+
+
+	
+}
+

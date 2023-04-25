@@ -1,0 +1,12 @@
+package Inheritance;
+// Create a class games with 3 methods. 
+// Create a class named Cricket and in cricket class inherit the feature of Games class.
+
+
+public class Games {
+	
+	void m1() {
+		
+	}
+
+}

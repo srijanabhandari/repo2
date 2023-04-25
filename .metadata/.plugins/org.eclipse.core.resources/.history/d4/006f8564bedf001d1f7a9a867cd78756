@@ -1,0 +1,25 @@
+package herarchicalInheritance;
+
+public  class School {
+	String location;
+	int price;
+	
+	School(String location, int price){
+		this.location = location;
+		this.price = price;
+	}
+  void learn() {
+	
+}
+ }
+ 
+class Teacher extends School {
+  int salary;
+  String subject;
+	Teacher(String location, int price) {
+		super(location, price);
+		
+	}
+	
+}
+

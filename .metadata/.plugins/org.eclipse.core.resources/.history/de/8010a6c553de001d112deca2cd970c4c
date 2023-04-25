@@ -1,0 +1,7 @@
+package evening;
+
+import Games;
+
+public class Cricket extends Games {
+
+}

@@ -1,0 +1,17 @@
+package MultilevelInteriance;
+
+class Telephone {
+
+}
+
+class Nokia extends Telephone {
+
+	public static void main(String[] args) {
+
+	}
+
+}
+
+class Android extends Nokia {
+
+}
